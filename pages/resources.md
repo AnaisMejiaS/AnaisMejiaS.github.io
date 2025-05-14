@@ -45,4 +45,3 @@ Welcome to the resources section! Here you will find links to key materials, dat
 ---
 
 Feel free to explore and download any material you find useful. If you have additional resources to share, please reach out!
-
