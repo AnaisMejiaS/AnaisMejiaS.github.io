@@ -10,7 +10,20 @@ author_profile: true
 Welcome to the resources section! Here you will find links to key materials, datasets, and documentation relevant to our class and research projects.
 
 ---
+layout: single
+title: "Resources"
+permalink: /resources/
+author_profile: true
 
+feature_row1:
+  - image_path: assets/images/Weed-Science-1.jpg
+    alt: "Resources"
+    excerpt: "Explore useful resources for the course."
+    url: "/resources/"
+    btn_class: "btn--inverse"
+    btn_label: "Explore Resources"
+
+---
 ## 📂 Course Materials
 
 - [CSU CM515 Course Repository](https://github.com/Colorado-State-University-CMB/CM515-course-2025)  
