@@ -34,4 +34,14 @@ ggplot(data, aes(x = CO2, y = Growth, fill = CO2)) +
   geom_bar(stat = "identity") +
   theme_minimal() +
   labs(title = "Plant Growth Under CO2 Conditions", y = "Growth (cm)")
+---
 
+### 📸 **Visualization Output:**
+
+![CO2 Impact on Plant Growth](assets/images/ggplot_co2.jpg)
+
+---
+
+### 📊 **Results:**
+- Plants grown under elevated CO2 showed a **30% increase in growth**.
+- Visualizations clearly highlight the effect of CO2 treatments on plant development.
