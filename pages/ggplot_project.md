@@ -1,9 +1,3 @@
-
----
-
-### 📄 **ggplot_project.md**
-
-```markdown
 ---
 layout: single
 title: "ggplot Project"
@@ -27,7 +21,8 @@ feature_row4:
 
 In this project, we visualized plant growth data using `ggplot2` in R.
 
-### Example Code:
+### 📄 **Example Code:**
+
 ```r
 library(ggplot2)
 data <- data.frame(
