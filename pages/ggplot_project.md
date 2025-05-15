@@ -34,3 +34,4 @@ ggplot(data, aes(x = CO2, y = Growth, fill = CO2)) +
   geom_bar(stat = "identity") +
   theme_minimal() +
   labs(title = "Plant Growth Under CO2 Conditions", y = "Growth (cm)")
+
