@@ -23,6 +23,8 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Anais Mejia-Solorzano"
 description              : "Peruvian scientist in progress (Always learning)."
 url                      : "https://anaismejias.github.io/"
+header:
+  show_search: true
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -132,7 +134,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anais-mejia"
 
 # Site Footer
